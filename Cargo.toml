@@ -1,5 +1,5 @@
 [package]
-name = "personal-digital-encryption-tool"
+name = "pdet" # Stands for Personal Data encryption Tool
 version = "0.1.0"
 edition = "2021"
 
